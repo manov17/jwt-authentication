@@ -1,0 +1,27 @@
+{
+  "name": "jwt-authentication",
+  "version": "1.0.0",
+  "description": "Reference: https://juffalow.com/javascript/express-server-with-jwt-authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manov17/jwt-authentication.git"
+  },
+  "keywords": [
+    "jwt",
+    "express"
+  ],
+  "author": "manov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manov17/jwt-authentication/issues"
+  },
+  "homepage": "https://github.com/manov17/jwt-authentication#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.1"
+  }
+}
